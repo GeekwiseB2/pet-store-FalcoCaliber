@@ -16,13 +16,13 @@
   font-size: 36px;
   color: #FF827B
 }
-.jumbotron {
+.hero {
   background-image: url(../img/hero.jpg);
   background-size: cover;
   height: 450px;
   background-position: center;
 }
-.jumbotron h2 {
+.hero h2 {
   font-family: 'Lato';
   font-weight: 300;
   color: white;
@@ -36,4 +36,24 @@
 .thumbnail {
   background-color: #edf1f4;
   padding: 10px;
+}
+
+.gmap {
+  display: inline-block;
+  margin: 10px 0 0 30px;
+}
+
+.footer {
+  background-color: #483C32;
+
+}
+
+.footer a {
+  color: white;
+}
+
+
+
+.divider {
+  border-right: gray solid 1px;
 }
