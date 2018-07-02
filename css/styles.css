@@ -24,13 +24,17 @@
 }
 .hero h2 {
   font-family: 'Lato';
-  font-weight: 300;
+  font-weight: 500;
   color: white;
 }
 
 .nav {
   margin-top: 30px;
   font-size: 20px;
+}
+
+.nav-pills a:hover {
+  color: #FF827B
 }
 
 .thumbnail {
@@ -56,4 +60,5 @@
 
 .divider {
   border-right: gray solid 1px;
+  padding: 10px;
 }
